@@ -1,3 +1,3 @@
-# Todo-App[website]
+# [Todo-App]
 
-[website]: https://to-do-app-68943.web.app/
+[Todo-App]: https://to-do-app-68943.web.app/
